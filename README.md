@@ -5,7 +5,7 @@ I'm **Mohit**, a passionate **Software Engineer** 🚀 with a strong foundation 
 ### ⚡ Skills:
 - **Programming Languages**: Java, C++, JavaScript (ES6+)
 - **Frontend**: React.js ⚛️, HTML5, CSS3, Bootstrap
-- **Backend**: Node.js 🟢, Express.js
+- **Backend**: Node.js 🟢, Express.js, SpringBoot
 - **Databases**: PostgreSQL 🐘, MongoDB 🍃
 - **DevOps**: Docker 🐳, Kubernetes, Jenkins, Git, GitHub Actions, AWS deployment ☁️
 - **Core Competencies**: OOP principles, Data Structures and Algorithms, System Design (Basic)
